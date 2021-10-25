@@ -1,0 +1,42 @@
+.theHeader{
+    width :100%;
+    height : 100px;
+    
+    margin :0
+    
+}
+
+
+.theHeader .researchbar{
+    padding-left : 200px;
+    padding-top : 30px;float : left;
+    
+}
+.theHeader .nomSite
+{
+    float :left;
+    color : blue;
+    padding-top : 10px;
+    padding-left : 100px;
+    font: bold; 
+    font-size:27px;
+}
+.theHeader .sign
+{
+    padding-right : 50px;float: right;
+    padding-top : 30px;
+    
+}
+
+.theHeader .sign .seconnecter
+{
+    margin-right : 25px;
+}
+
+.theHeader .categories
+{
+    float: left ;
+    color :blue;
+    padding-left : 70px;
+    padding-top : 15px;
+}

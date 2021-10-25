@@ -1,0 +1,45 @@
+.topTop
+{
+    
+    height : 100px;
+    width : 100%;
+    padding-left : 2%;
+    padding-right : 2%;
+    
+}
+
+.topTop a img{
+    width : 100%;
+    height : 350%;
+    margin-top : -1%;
+}
+
+
+.topTop h1
+{
+    margin-left : 1%;
+    padding-top : 15px;
+    float: left;
+}
+
+.topTop  e img
+{
+    width : 8%;
+    height: 80%;  
+    float : left;
+    margin-left : 10%;
+    
+   
+}
+
+.topTop c img
+{
+    margin-top : -10%;
+    border-radius: 100%;
+    margin-left : 8%;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, .2);
+}
+
+.topTop c img:hover{
+    transform : scale(1.07,1.07);
+}

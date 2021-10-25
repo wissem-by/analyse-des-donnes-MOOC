@@ -1,0 +1,25 @@
+.cours
+{
+   
+    width : 250px; height : 250px;
+    margin-left : 100px;
+    margin-top : 100px;
+
+   
+}
+
+.cours a
+{
+    text-decoration: line-through;
+}
+
+.cours .infoCours
+{
+    text-align: justify;
+}
+
+.cours .coursPic
+{
+    padding-left : 30px;padding-top : 50px;
+}
+

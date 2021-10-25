@@ -1,0 +1,41 @@
+.login{
+  margin-left: 35%;
+  margin-top : 8%;
+  border-radius: 40px;
+  background: #ecf0f3;
+  box-shadow: 13px 13px 20px #cbced1,
+              -13px -13px 20px #ffffff;
+  padding : 60px 35px 35px 35px ;
+  margin-right: 40%;
+  padding-left: 87px;
+  
+  
+}
+.login h2{
+  padding-left:20%;
+}
+.login .email{
+  margin-top : 30px;
+  margin-bottom: 30px;
+  
+}
+.login .email .email2{
+  border-radius:30px
+}
+
+.login .password{
+  margin-bottom: 30px;
+ 
+}
+
+.login .password .password2{
+  border-radius: 30px;
+}
+
+.login .bbt
+{ margin-left: 20%;
+  width: 100px;
+  background-color: mediumblue;
+  color: azure;
+  border-radius: 30%;
+}

@@ -1,0 +1,35 @@
+.theGreeting
+{
+    
+    margin-left : 30%;
+   
+}
+
+
+
+ .logoutBtn
+{
+    margin-left : 90%;
+  
+    
+
+}
+.ajustement{
+    float : left;
+    height : 50%;
+    
+    width : 100%
+}
+
+.droite{
+    float : left;
+    margin-left : left;
+    height : 50%;
+    
+    width : 100%;
+}
+
+.ajustement .myCourses{
+    margin-left : 15%;
+}
+

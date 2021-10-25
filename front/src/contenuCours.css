@@ -1,0 +1,135 @@
+
+
+.navbarr{
+    background-color: #FF6347;
+    color : white;
+    height : 150px;
+    padding-left : 15%;
+
+}
+
+.navbarr h3{
+    font-size: 50px;
+}
+
+.navbar p
+{
+    margin-top : 3%;
+    margin-right : 85%;
+}
+.navbar h3{
+    margin-top : 1%;
+}
+
+.navbarr img{
+    margin-left : 70%;
+    margin-top : -95px;
+}
+
+.leBody{
+    background-color: white;
+    height:100%;
+    width: 100%;
+}
+
+.leBody .Droite{
+    margin-left: 80%;
+    margin-top: -20%
+}
+
+.leBody .vid{
+    
+    width : 120%;
+    margin-top : 5%;
+    margin-left : 3%;
+   
+}
+
+#popup1{
+    position : fixed;
+    top : 40%;
+    left : 50%;
+    transform : translate(-50%,-50%);
+    width : 600px;
+    padding : 50px;
+    box-shadow: 0 5px 30px rgba(0, 0, 0, .30);
+    background: #fff;
+    visibility:hidden;
+    opacity : 0;
+    transition : 0.5s;
+    
+}
+
+#popup1.active
+{  top : 50%;
+    visibility:visible;
+    opacity : 1;
+    transition : 0.5s;
+}
+#popup2{
+    position : fixed;
+    top : 40%;
+    left : 50%;
+    transform : translate(-50%,-50%);
+    width : 600px;
+    padding : 50px;
+    box-shadow: 0 5px 30px rgba(0, 0, 0, .30);
+    background: #fff;
+    visibility:hidden;
+    opacity : 0;
+    transition : 0.5s;
+    
+}
+
+#popup2.active
+{  top : 50%;
+    visibility:visible;
+    opacity : 1;
+    transition : 0.5s;
+}
+#popup3{
+    position : fixed;
+    top : 40%;
+    left : 50%;
+    transform : translate(-50%,-50%);
+    width : 600px;
+    padding : 50px;
+    box-shadow: 0 5px 30px rgba(0, 0, 0, .30);
+    background: #fff;
+    visibility:hidden;
+    opacity : 0;
+    transition : 0.5s;
+    
+}
+
+#popup3.active
+{  top : 50%;
+    visibility:visible;
+    opacity : 1;
+    transition : 0.5s;
+}
+.popup{
+    border-radius: 27px;
+
+}
+
+.theButton{
+    margin-left : 80%;
+    margin-top : 3%;
+    width : 130px;
+    height : 60px;
+    background-color: #ADD8E6;
+    color : red;
+    border-radius: 50px;
+
+}
+
+.theButton:hover{
+    transform : scale(1.07,1.07);
+}
+
+
+.retourArriere{
+    margin-left : 1%;
+    margin-top : -3%;
+}

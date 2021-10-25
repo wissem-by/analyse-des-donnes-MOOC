@@ -1,0 +1,76 @@
+.nav{
+    height : 200px;
+    background-color: black;
+}
+
+ .nav .pic {
+    position: absolute;
+   margin-left : 60%;
+   margin-right: 30%;
+    width: 400px;
+    height: 720px;
+    margin-top : 50px;
+   background-color : white;
+   box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, .2);
+   
+   
+  }
+
+  .nav .pic img
+  {
+     width : 100%;
+     height: 30%;
+
+  }
+
+  .nav .textPython
+{
+   color: white; 
+    font-size : 50px;
+    padding-left : 5%;
+}
+
+.nav .textDetails
+{
+   color: white; 
+    font-size : 18px;
+    padding-left : 5%;
+    float : left;
+}
+
+.nav .pic .courseDesc
+{
+    text-align: left;
+    padding-left : 10%;
+    padding-top : 10%;
+}
+
+.apprendre
+{
+    background-color : #ccc;
+    width : 600px;
+    height : 300px;
+    margin-left : 10%;
+    margin-top : 5%;
+}
+
+.apprendre .leftSide
+{
+    float : left;
+    width : 300px;
+}
+
+.apprendre .leftSide
+{
+    float : left;width : 300px;
+}
+/*
+.nav .pic .btn
+{
+    background-color: red;
+    color : white;
+   margin-left: 20%;
+   margin-top : 10%;
+    width : 200px;
+    height : 50px;
+}*/
